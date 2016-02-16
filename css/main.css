@@ -1,0 +1,38 @@
+body{
+	font-family: 'Open Sans';
+}
+
+a{
+	text-decoration: none !important;
+}
+
+.bg-header{
+	background:url('../img/header.png');
+	background-repeat: no-repeat;
+    background-size: cover;
+    background-position-y: 0%;
+    padding: 30%;
+    min-height: 100px;
+}
+
+.bg-portafolios{
+	background:url('../img/main-pic.png');
+	background-repeat: no-repeat;
+    background-size: cover;
+    background-position-y: 0%;
+    padding: 30%;
+    min-height: 100px;
+}
+
+.bg-twitter{
+	background:url('../img/twitter.png');
+	background-repeat: no-repeat;
+    background-size: cover;
+    background-position-y: 0%;
+    padding: 30%;
+    min-height: 50px;
+}
+
+.follow{
+	
+}
